@@ -10,5 +10,3 @@ I am currently working on a geography game for my course nea
 - JavaScript / TypeScript
 - MongoDB
 - SQL
-
-## My projects:
